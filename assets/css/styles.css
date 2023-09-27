@@ -1,3 +1,15 @@
-
 /* css */
 
+@font-face {
+    font-family: "TitleFont";
+    src: url(UnifrakturMaguntia-Regular.ttf);
+}
+
+body {
+    background-image: linear-gradient(rgb(248, 227, 230), rgb(253, 239, 239), rgb(218, 218, 218));
+}
+
+h1 {
+    font-family: "TitleFont";
+    text-align: center;
+}
